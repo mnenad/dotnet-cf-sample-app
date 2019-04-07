@@ -1,1 +1,0 @@
-# dotnet-cf-sample-app

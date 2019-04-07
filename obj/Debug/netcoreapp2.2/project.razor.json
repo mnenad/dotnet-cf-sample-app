@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/nenadm/git/4-workshop/pace-workshop/talanx-workshop/dotnet-gui-sample-app/SampleGUI.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
