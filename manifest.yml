@@ -2,6 +2,6 @@
 applications:
 - name: dotnet-cf-sample-app
   random-route: true
-  buildpack: https://github.com/cloudfoundry/dotnet-core-buildpack
+  # buildpack: https://github.com/cloudfoundry/dotnet-core-buildpack
   instances: 1
   memory: 256M
